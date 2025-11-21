@@ -1,0 +1,58 @@
+# ============================================
+# CORE DEPENDENCIES
+# ============================================
+streamlit
+python-dotenv
+
+# ============================================
+# LANGCHAIN ECOSYSTEM
+# ============================================
+langchain-core
+langchain-community
+langchain
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+langchain-qdrant
+langchain-openai
+
+# ============================================
+# EMBEDDINGS AND ML
+# ============================================
+sentence-transformers
+transformers
+torch
+huggingface-hub
+
+# ============================================
+# VECTOR DATABASE
+# ============================================
+qdrant-client
+
+# ============================================
+# TOKEN COUNTING
+# ============================================
+tiktoken
+
+# ============================================
+# DOCUMENT PROCESSING
+# ============================================
+pypdf
+python-docx
+python-pptx
+unstructured
+pdfminer.six
+pillow
+
+# ============================================
+# API FRAMEWORK
+# ============================================
+fastapi
+uvicorn
+pydantic
+
+# ============================================
+# UTILITIES
+# ============================================
+typing-extensions
+requests
